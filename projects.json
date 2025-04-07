@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Website Redesign",
+    "budget": 15000,
+    "timeline": 7,
+    "description": "Redesign our company website with modern UI/UX principles",
+    "skills": ["React", "TailwindCSS", "Figma"]
+  },
+  {
+    "id": 2,
+    "name": "Blockchain Smart Contract",
+    "budget": 50000,
+    "timeline": 14,
+    "description": "Develop a smart contract for NFT marketplace",
+    "skills": ["Solidity", "Ethereum", "Web3.js"]
+  },
+  {
+    "id": 3,
+    "name": "Mobile App Development",
+    "budget": 30000,
+    "timeline": 21,
+    "description": "Build a cross-platform mobile app for task management",
+    "skills": ["React Native", "Firebase", "Redux"]
+  }
+]
